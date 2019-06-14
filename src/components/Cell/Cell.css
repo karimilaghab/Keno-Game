@@ -1,0 +1,13 @@
+.cells {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  margin: 2px;
+  border-radius: 50px;
+  border: 0;
+}
+
+.selected {
+  background-color: rgb(198, 40, 40);
+  color: rgb(255, 255, 255);
+}

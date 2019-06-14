@@ -1,0 +1,8 @@
+.btnCreate {
+  background-color: rgb(124, 179, 66);
+  border: 0;
+  height: 50px;
+  width: 100px;
+  border-radius: 8px;
+  color: white;
+}

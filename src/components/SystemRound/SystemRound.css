@@ -1,0 +1,23 @@
+.SystemRound {
+  display: flex;
+  flex-direction: column;
+}
+
+.SystemRoundBoard {
+  margin-right: 5px;
+}
+
+.SystemRoundSide {
+  margin-left: 5px;
+}
+
+.btnPlay {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  background-color: rgb(0, 131, 143);
+  border: 0;
+  height: 50px;
+  width: 100px;
+  border-radius: 8px;
+  color: white;
+}
